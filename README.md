@@ -28,7 +28,7 @@ Through webscrapping  at [einforma.com](https://www.einforma.com/) enrich the da
 
 Reduce the dataset with UMAP and proceed to clustering with HDBSCAN.
 
-After the clustering, a csv file is generated with all the data that can be analyze a Business Inteligent tool like [Power BI](https://powerbi.microsoft.com/es-es/) or [Tableau](https://www.tableau.com/). 
+After the clustering, a csv file is generated with all the data that can be analyze using a Business Inteligent tool like [Power BI](https://powerbi.microsoft.com/es-es/) or [Tableau](https://www.tableau.com/). 
 
 ### Folder Structure ###
 ```bash 
