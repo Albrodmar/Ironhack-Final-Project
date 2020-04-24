@@ -26,7 +26,7 @@ Extracting client’s buying history from the Company database. Classified every
 - Current operativity status 
 
 ### Folder Structure ###
-
+```bash 
 └── project
     ├── .gitignore
     ├── requeriments.txt
@@ -35,4 +35,4 @@ Extracting client’s buying history from the Company database. Classified every
     │   ├── notebook1.ipynb
     │   └── notebook2.ipynb
     └── images
-
+```
