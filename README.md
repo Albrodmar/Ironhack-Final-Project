@@ -6,10 +6,10 @@ Final Project - Data Analytics Ironhack
 ## Clustering a B2B Client Database ##
 
 On B2B besides the **direct commercial relationship**, valueable information can be obtained using VAT numbers.
-	..* Current status of the company
-	..* Declared main activity of the company
-	..* Location
-	..* Company P&L
+⋅⋅* Current status of the company.
+⋅⋅* Declared main activity of the company.
+⋅⋅* Location.
+⋅⋅* Company P&L.
 
 This information could be helpful to:
 Develop a look-alike process to obtain new clients
