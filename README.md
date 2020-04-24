@@ -39,5 +39,6 @@ After the clustering, a csv file is generated with all the data that can be anal
     ├── notebooks
     │   ├── notebook1.ipynb
     │   └── notebook2.ipynb
+    ├── final_data
     └── images
 ```
