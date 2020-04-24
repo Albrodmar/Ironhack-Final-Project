@@ -20,7 +20,7 @@ Find out buying patterns in your B2B clients database
 SQL, python, pandas, selenium, matplotlib, UMAP, HDBSCAN
 
 ### Core ###
-Extracting client’s buying history from the Company database. Classified every sale on a product-category.
+Extracting client’s buying history from the Company database. Classified every gsale on a product-category.
 Through webscrapping  at [einforma.com](https://www.einforma.com/) enrich the dataset with valuable client information:
 - Declared main activity
 - Location Province
@@ -28,7 +28,7 @@ Through webscrapping  at [einforma.com](https://www.einforma.com/) enrich the da
 
 Reduce the dataset with UMAP and proceed to clustering with HDBSCAN.
 
-After the clustering, a csv file is generated with all the data that can be analyze using a Business Inteligent tool like [Power BI](https://powerbi.microsoft.com/es-es/) or [Tableau](https://www.tableau.com/). 
+After the clustering, a csv file is generated with all the data that can be analyze using a Business Inteligent Software like [Power BI](https://powerbi.microsoft.com/es-es/) or [Tableau](https://www.tableau.com/). 
 
 ### Folder Structure ###
 ```bash 
