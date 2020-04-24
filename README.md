@@ -30,8 +30,8 @@ Reduce the dataset with UMAP and proceed to clustering with HDBSCAN.
 
 After the clustering, a csv file is generated with all the data that can be analyze a Business Inteligent tool like [Power BI](https://powerbi.microsoft.com/es-es/) or [Tableau](https://www.tableau.com/). 
 
-!Clever, isn 
-https://media1.tenor.com/images/5141da4cfc3185e8977fa7fcc4b32dda/tenor.gif?itemid=9596539
+![](https://tenor.com/OqE3.gif)
+
 
 ### Folder Structure ###
 ```bash 
